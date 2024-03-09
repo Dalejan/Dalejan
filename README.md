@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MLOps**
 
-- 💬 Ask me about **Frontend Development, Software Development, Machine Learning Projects**
+- 💬 Ask me about **Machine Learning Engineer, Frontend Development, and Software Development**
 
 - 📫 How to reach me **david1804997@gmail.com**
 
