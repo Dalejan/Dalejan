@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Alejandro Quiñonez
 
-<a href="https://git.io/typing-svg"><img  style="width:400px; margin-left:100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=I'm+a+Machine+Learning+Engineer;I'm+a+Full-Stack+developer;I'm+a+Frontend+Engineer;I'm+a+Software+Engineer" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img  style="width:470px; margin-left:100px" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=I'm+a+Machine+Learning+Engineer;I'm+a+Full-Stack+Developer;I'm+a+Frontend+Engineer;I'm+a+Software+Engineer" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">A full-stack engineer from Colombia.</h3>
 
